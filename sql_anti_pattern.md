@@ -43,3 +43,13 @@
 - [「SQLアンチパターン」を避けるためのチェックリスト③（SQLクエリ設計編）](https://www.ketancho.net/entry/2018/03/14/074500)
 - [「SQLアンチパターン」を避けるためのチェックリスト④（アプリケーション設計編）](https://www.ketancho.net/entry/2018/04/24/083000)
 - [幻の26章](https://www.slideshare.net/t_wada/ronsakucasual)
+
+### 命名規則資料
+- [railsの規約](https://railsdoc.com/rails_base)
+- [プログラミングでよく使う英単語のまとめ【随時更新】 - Qiita](https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923)
+- [新人エンジニアに役立った命名規則6選とアンチパターン3選](https://qiita.com/uehiro22/items/7a2b0b3b72f458018632)
+- [データベースオブジェクトの命名規約](https://qiita.com/tatsuya_1995/items/4b706fc40fe2f300bbc0)
+- [〜DB設計基礎の「キ」　命名規則〜](https://qiita.com/genzouw/items/35022fa96c120e67c637)
+- [「SQLアンチパターン」まとめ](https://qiita.com/taiteam/items/33aebded2842808e0391)
+- [一家？に一冊「SQLアンチパターン」](https://qiita.com/shimamura_io/items/7ca604933f526a2cdfa9)
+- [達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ](https://www.amazon.co.jp/%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6SQL%E5%BE%B9%E5%BA%95%E6%8C%87%E5%8D%97%E6%9B%B8-%E7%AC%AC2%E7%89%88-%E5%88%9D%E7%B4%9A%E8%80%85%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8-CodeZine-BOOKS/dp/4798157821/ref=pd_rhf_dp_s_pd_sbs_rvi_sccl_1_19/357-6089438-0793650?pd_rd_w=kBWXY&content-id=amzn1.sym.87894175-5a86-4ea9-9f46-7b734f23ae1b&pf_rd_p=87894175-5a86-4ea9-9f46-7b734f23ae1b&pf_rd_r=PYVQBM31XG8GVDJM4ZT6&pd_rd_wg=ryj0L&pd_rd_r=78c18a3c-d4ba-4072-ad74-cac81201962f&pd_rd_i=4798157821&psc=1)
